@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  occupation: MyString
+  carros: MyText
+  marcas: MyText
+  favoritos: MyText
+
+two:
+  nome: MyString
+  occupation: MyString
+  carros: MyText
+  marcas: MyText
+  favoritos: MyText

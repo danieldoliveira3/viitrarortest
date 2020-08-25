@@ -1,0 +1,7 @@
+development:
+  clients:
+    default:
+      uri: mongodb+srv://root:root@railsviitra.ahzlo.mongodb.net/viitratest_development?retryWrites=true&w=majority
+
+      options:
+        server_selection_timeout: 5
